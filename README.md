@@ -1,2 +1,2 @@
-# CryptRush
- 3D Puzzle/Exploration game
+# CryptRaider
+ Simple First person game about escaping a dungeon 
