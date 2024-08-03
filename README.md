@@ -8,6 +8,6 @@ Clone the repo and launch it through the unreal editor
 
 ## The game
 
-In this game, you enter a dark dungeon with the objective of going back from the crypt with the gold treasure in hand. You will first have to figure out how to open the crypt door. In the dungeon certain objects can be grabbed and placed to unlock mecanisms. Once in the crypt, you will have to escape with the treasure in hand. Beware not to get stuck inside !
+In this game, you enter a dark dungeon with the objective of going back from the crypt with the gold treasure in hand. You will first have to figure out how to open the crypt door. In the dungeon certain objects can be grabbed and placed to unlock mechanism. Once in the crypt, you will have to escape with the treasure in hand. Beware not to get stuck inside !
 
 Good luck and have fun !
